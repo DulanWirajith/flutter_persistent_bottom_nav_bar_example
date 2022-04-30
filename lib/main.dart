@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:persistent_bottom_nav_bar/persistent-tab-view.dart';
 import 'package:persistent_bottom_nav_bar_example_project/route_generator.dart';
-
-import 'custom-widget-tabs.widget.dart';
 
 void main() => runApp(MyApp());
 

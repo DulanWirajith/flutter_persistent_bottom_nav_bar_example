@@ -16,7 +16,7 @@ class RouteGenerator {
       case '/first':
         return MaterialPageRoute(builder: (_) => const  MainScreen2());
       // case '/second':
-      //   return MaterialPageRoute(builder: (_) => const  MainScreen3());
+      //   return MaterialPageRoute(builder: (_) => MainScreen3());
       default:
         // If there is no such named route in the switch statement,
         return _errorRoute();
